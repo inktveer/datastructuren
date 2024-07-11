@@ -1,0 +1,15 @@
+/home/jmvdgiessen/RiderProjects/LifeOfGame/LifeOfGame/bin/Debug/net6.0/LifeOfGame
+/home/jmvdgiessen/RiderProjects/LifeOfGame/LifeOfGame/bin/Debug/net6.0/LifeOfGame.deps.json
+/home/jmvdgiessen/RiderProjects/LifeOfGame/LifeOfGame/bin/Debug/net6.0/LifeOfGame.runtimeconfig.json
+/home/jmvdgiessen/RiderProjects/LifeOfGame/LifeOfGame/bin/Debug/net6.0/LifeOfGame.dll
+/home/jmvdgiessen/RiderProjects/LifeOfGame/LifeOfGame/bin/Debug/net6.0/LifeOfGame.pdb
+/home/jmvdgiessen/RiderProjects/LifeOfGame/LifeOfGame/obj/Debug/net6.0/LifeOfGame.csproj.AssemblyReference.cache
+/home/jmvdgiessen/RiderProjects/LifeOfGame/LifeOfGame/obj/Debug/net6.0/LifeOfGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/jmvdgiessen/RiderProjects/LifeOfGame/LifeOfGame/obj/Debug/net6.0/LifeOfGame.AssemblyInfoInputs.cache
+/home/jmvdgiessen/RiderProjects/LifeOfGame/LifeOfGame/obj/Debug/net6.0/LifeOfGame.AssemblyInfo.cs
+/home/jmvdgiessen/RiderProjects/LifeOfGame/LifeOfGame/obj/Debug/net6.0/LifeOfGame.csproj.CoreCompileInputs.cache
+/home/jmvdgiessen/RiderProjects/LifeOfGame/LifeOfGame/obj/Debug/net6.0/LifeOfGame.dll
+/home/jmvdgiessen/RiderProjects/LifeOfGame/LifeOfGame/obj/Debug/net6.0/refint/LifeOfGame.dll
+/home/jmvdgiessen/RiderProjects/LifeOfGame/LifeOfGame/obj/Debug/net6.0/LifeOfGame.pdb
+/home/jmvdgiessen/RiderProjects/LifeOfGame/LifeOfGame/obj/Debug/net6.0/LifeOfGame.genruntimeconfig.cache
+/home/jmvdgiessen/RiderProjects/LifeOfGame/LifeOfGame/obj/Debug/net6.0/ref/LifeOfGame.dll

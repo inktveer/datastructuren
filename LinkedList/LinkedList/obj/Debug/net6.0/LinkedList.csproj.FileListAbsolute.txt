@@ -1,0 +1,15 @@
+/home/jmvdgiessen/RiderProjects/LinkedList/LinkedList/bin/Debug/net6.0/LinkedList
+/home/jmvdgiessen/RiderProjects/LinkedList/LinkedList/bin/Debug/net6.0/LinkedList.deps.json
+/home/jmvdgiessen/RiderProjects/LinkedList/LinkedList/bin/Debug/net6.0/LinkedList.runtimeconfig.json
+/home/jmvdgiessen/RiderProjects/LinkedList/LinkedList/bin/Debug/net6.0/LinkedList.dll
+/home/jmvdgiessen/RiderProjects/LinkedList/LinkedList/bin/Debug/net6.0/LinkedList.pdb
+/home/jmvdgiessen/RiderProjects/LinkedList/LinkedList/obj/Debug/net6.0/LinkedList.csproj.AssemblyReference.cache
+/home/jmvdgiessen/RiderProjects/LinkedList/LinkedList/obj/Debug/net6.0/LinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/home/jmvdgiessen/RiderProjects/LinkedList/LinkedList/obj/Debug/net6.0/LinkedList.AssemblyInfoInputs.cache
+/home/jmvdgiessen/RiderProjects/LinkedList/LinkedList/obj/Debug/net6.0/LinkedList.AssemblyInfo.cs
+/home/jmvdgiessen/RiderProjects/LinkedList/LinkedList/obj/Debug/net6.0/LinkedList.csproj.CoreCompileInputs.cache
+/home/jmvdgiessen/RiderProjects/LinkedList/LinkedList/obj/Debug/net6.0/LinkedList.dll
+/home/jmvdgiessen/RiderProjects/LinkedList/LinkedList/obj/Debug/net6.0/refint/LinkedList.dll
+/home/jmvdgiessen/RiderProjects/LinkedList/LinkedList/obj/Debug/net6.0/LinkedList.pdb
+/home/jmvdgiessen/RiderProjects/LinkedList/LinkedList/obj/Debug/net6.0/LinkedList.genruntimeconfig.cache
+/home/jmvdgiessen/RiderProjects/LinkedList/LinkedList/obj/Debug/net6.0/ref/LinkedList.dll

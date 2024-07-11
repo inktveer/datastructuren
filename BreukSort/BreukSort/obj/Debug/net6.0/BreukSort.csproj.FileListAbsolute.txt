@@ -1,0 +1,15 @@
+/home/jmvdgiessen/RiderProjects/BreukSort/BreukSort/bin/Debug/net6.0/BreukSort
+/home/jmvdgiessen/RiderProjects/BreukSort/BreukSort/bin/Debug/net6.0/BreukSort.deps.json
+/home/jmvdgiessen/RiderProjects/BreukSort/BreukSort/bin/Debug/net6.0/BreukSort.runtimeconfig.json
+/home/jmvdgiessen/RiderProjects/BreukSort/BreukSort/bin/Debug/net6.0/BreukSort.dll
+/home/jmvdgiessen/RiderProjects/BreukSort/BreukSort/bin/Debug/net6.0/BreukSort.pdb
+/home/jmvdgiessen/RiderProjects/BreukSort/BreukSort/obj/Debug/net6.0/BreukSort.csproj.AssemblyReference.cache
+/home/jmvdgiessen/RiderProjects/BreukSort/BreukSort/obj/Debug/net6.0/BreukSort.GeneratedMSBuildEditorConfig.editorconfig
+/home/jmvdgiessen/RiderProjects/BreukSort/BreukSort/obj/Debug/net6.0/BreukSort.AssemblyInfoInputs.cache
+/home/jmvdgiessen/RiderProjects/BreukSort/BreukSort/obj/Debug/net6.0/BreukSort.AssemblyInfo.cs
+/home/jmvdgiessen/RiderProjects/BreukSort/BreukSort/obj/Debug/net6.0/BreukSort.csproj.CoreCompileInputs.cache
+/home/jmvdgiessen/RiderProjects/BreukSort/BreukSort/obj/Debug/net6.0/BreukSort.dll
+/home/jmvdgiessen/RiderProjects/BreukSort/BreukSort/obj/Debug/net6.0/refint/BreukSort.dll
+/home/jmvdgiessen/RiderProjects/BreukSort/BreukSort/obj/Debug/net6.0/BreukSort.pdb
+/home/jmvdgiessen/RiderProjects/BreukSort/BreukSort/obj/Debug/net6.0/BreukSort.genruntimeconfig.cache
+/home/jmvdgiessen/RiderProjects/BreukSort/BreukSort/obj/Debug/net6.0/ref/BreukSort.dll
