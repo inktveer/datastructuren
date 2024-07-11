@@ -1,0 +1,14 @@
+/home/inktveer/RiderProjects/Collatz/Collatz/bin/Debug/net8.0/Collatz
+/home/inktveer/RiderProjects/Collatz/Collatz/bin/Debug/net8.0/Collatz.deps.json
+/home/inktveer/RiderProjects/Collatz/Collatz/bin/Debug/net8.0/Collatz.runtimeconfig.json
+/home/inktveer/RiderProjects/Collatz/Collatz/bin/Debug/net8.0/Collatz.dll
+/home/inktveer/RiderProjects/Collatz/Collatz/bin/Debug/net8.0/Collatz.pdb
+/home/inktveer/RiderProjects/Collatz/Collatz/obj/Debug/net8.0/Collatz.GeneratedMSBuildEditorConfig.editorconfig
+/home/inktveer/RiderProjects/Collatz/Collatz/obj/Debug/net8.0/Collatz.AssemblyInfoInputs.cache
+/home/inktveer/RiderProjects/Collatz/Collatz/obj/Debug/net8.0/Collatz.AssemblyInfo.cs
+/home/inktveer/RiderProjects/Collatz/Collatz/obj/Debug/net8.0/Collatz.csproj.CoreCompileInputs.cache
+/home/inktveer/RiderProjects/Collatz/Collatz/obj/Debug/net8.0/Collatz.dll
+/home/inktveer/RiderProjects/Collatz/Collatz/obj/Debug/net8.0/refint/Collatz.dll
+/home/inktveer/RiderProjects/Collatz/Collatz/obj/Debug/net8.0/Collatz.pdb
+/home/inktveer/RiderProjects/Collatz/Collatz/obj/Debug/net8.0/Collatz.genruntimeconfig.cache
+/home/inktveer/RiderProjects/Collatz/Collatz/obj/Debug/net8.0/ref/Collatz.dll

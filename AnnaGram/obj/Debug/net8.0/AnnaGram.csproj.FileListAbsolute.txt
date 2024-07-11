@@ -1,0 +1,14 @@
+/home/inktveer/RiderProjects/AnnaGram/bin/Debug/net8.0/AnnaGram
+/home/inktveer/RiderProjects/AnnaGram/bin/Debug/net8.0/AnnaGram.deps.json
+/home/inktveer/RiderProjects/AnnaGram/bin/Debug/net8.0/AnnaGram.runtimeconfig.json
+/home/inktveer/RiderProjects/AnnaGram/bin/Debug/net8.0/AnnaGram.dll
+/home/inktveer/RiderProjects/AnnaGram/bin/Debug/net8.0/AnnaGram.pdb
+/home/inktveer/RiderProjects/AnnaGram/obj/Debug/net8.0/AnnaGram.GeneratedMSBuildEditorConfig.editorconfig
+/home/inktveer/RiderProjects/AnnaGram/obj/Debug/net8.0/AnnaGram.AssemblyInfoInputs.cache
+/home/inktveer/RiderProjects/AnnaGram/obj/Debug/net8.0/AnnaGram.AssemblyInfo.cs
+/home/inktveer/RiderProjects/AnnaGram/obj/Debug/net8.0/AnnaGram.csproj.CoreCompileInputs.cache
+/home/inktveer/RiderProjects/AnnaGram/obj/Debug/net8.0/AnnaGram.dll
+/home/inktveer/RiderProjects/AnnaGram/obj/Debug/net8.0/refint/AnnaGram.dll
+/home/inktveer/RiderProjects/AnnaGram/obj/Debug/net8.0/AnnaGram.pdb
+/home/inktveer/RiderProjects/AnnaGram/obj/Debug/net8.0/AnnaGram.genruntimeconfig.cache
+/home/inktveer/RiderProjects/AnnaGram/obj/Debug/net8.0/ref/AnnaGram.dll
